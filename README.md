@@ -9,3 +9,6 @@ from: http://diy.inria.fr/sources/index.html. Then run:
 	
 You will then have a Makefile and a run script in the folder to run the
 genearated litmus tests.
+
+Additional litmus tests can be downloaded from here:
+http://www.cl.cam.ac.uk/~sf502/popl16/pop/src-arm/
